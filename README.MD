@@ -1,42 +1,42 @@
-** Getting Started **
+# **Getting Started**
 
-Python is an interpreted, object-oriented, high-level programming language. In this tutorial we will be learning about the basics concept of python programming. 
+- Python is an interpreted, object-oriented, high-level programming language. In this tutorial we will be learning about the basics concept of python programming. 
 
-** Day 1 **
+##  **_Day 1_**
 
-In the day1 part we are going to cover the basic concpet of variables, data types, printing outputs and many more.
+- In the day1 part we are going to cover the basic concpet of variables, data types, printing outputs and many more.
 
-    _Numbers_ - Their are two  different types of numbers: 
+    **_`Numbers`_** - Their are two  different types of numbers: 
         a. integers 
         b. floating-point
     
-    _Strings_ - A string is a sequence of characters. They are wrapped inside quotation marks(i.e., '' or "").
+    **_`Strings`_** - A string is a sequence of characters. They are wrapped inside quotation marks(i.e., '' or "").
     
-    _Variables_ - A variable is used to store data so that we can use them later in the program.
+    **_`Variables`_** - A variable is used to store data so that we can use them later in the program.
     
-    _Output_ - The print() function is used to display output on the screen.
+    **_`Output`_** - The print() function is used to display output on the screen.
     
-    _Comments_ - Comments are used to ignore parts of the program. In Python, a comment starts with a #.
+    **_`Comments`_** : Comments are used to ignore parts of the program. In Python, a comment starts with a #.
     
-    _Operators_ - Arithmetic operators are used to perform arithmetic such as:
-    a. addition +
+    **_`Operators`_** - Arithmetic operators are used to perform arithmetic such as:
+    a. addition + 
     b. subtraction -
     c. quotient //
     d. remainder %, etc.
     
-    _Data conversion_ - It's possible to convert data of one type to another. For that, we use functions such as int() and float().
+    **_`Data conversion`_** - It's possible to convert data of one type to another. For that, we use functions such as int() and float().
     
     
-** Day 2 **
+##  **_Day 2_**
 
-Input function in one of the built-in function in python. This function takes input only as string.
+- Input function in one of the built-in function in python. This function takes input only as string.
 
-    _Get_ _Input_ - The input() function takes the input from the user. The function always takes the input in the string form.
+    **_`Get Input`_** - The input() function takes the input from the user. The function always takes the input in the string form.
 
 
-Task 1:
+## Task 1:
 
-    a. Using input function
+    Using input function
        
     Ask the user to enter the first name and store it in the 'first_name' variable.
     
@@ -45,9 +45,9 @@ Task 1:
     Print the full name.
 
 
-Task 2:
+## Task 2:
 
-    b. Arithmetic operation in input function
+    Arithmetic operation in input function
 
     Get two numeric type input from the user, convert them to float and assign them to variables 'number1' and 'number2'.
     
