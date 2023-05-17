@@ -19,14 +19,14 @@
     **_`Comments`_** : Comments are used to ignore parts of the program. In Python, a comment starts with a #.
     
     **_`Operators`_** - Arithmetic operators are used to perform arithmetic such as:
-    - addition + 
-    - subtraction -
-    - quotient //
+    - addition +, 
+    - subtraction -,
+    - quotient //,
     - remainder %, etc.
     
     **_`Data conversion`_** - It's possible to convert data of one type to another. For that, we use functions such as:
     - int() 
-    - float().
+    - float()
     
     
 ##  **_Day 2_**
