@@ -63,3 +63,15 @@
 Now we will be working on how can we  
 - create programs that can make decisions
 - execute code repeatedly using loops
+
+### **We will learn**
+- booleans expression
+- comparison operator
+- logical operator
+- if & if...else statement
+- elif clause
+- while loop
+
+#### **Note**: `We can also use boolean value i.e., true and false in if statement.`
+
+
